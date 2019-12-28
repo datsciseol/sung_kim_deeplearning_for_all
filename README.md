@@ -1,1 +1,1 @@
-# sung_kim_deeplearning_for_all
+모두의 딥러닝 강좌를 수강한 후 강의에 나오는 연습 및 과제를 Tensorflow
